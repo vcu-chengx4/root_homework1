@@ -27,7 +27,3 @@ but
 https://github.com/YOUR_GITHUB_ACCOUNT/root_homework1
 
 
-
-
-
-
